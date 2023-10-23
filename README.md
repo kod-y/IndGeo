@@ -21,4 +21,4 @@ Created by 2120274m
 ## 再現方法
 1. `git clone`
 2. `pip install -r requirements.txt`
-3. `mid/mid_main.ipynb`または`final/final_main.`を上から順に実行
+3. `mid/mid_main.ipynb`または`final/final_main.ipynb`を上から順に実行
